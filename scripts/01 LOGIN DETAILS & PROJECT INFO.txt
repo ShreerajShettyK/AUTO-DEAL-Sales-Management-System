@@ -1,0 +1,17 @@
+**Database Name: vsmsphp**
+
+**Developed by Soyket Chowdhury**
+
+**Recommended PHP Version 5.6.3**
+
+
+**Admin Login Details** 
+
+Email   : johnwalker@gmail.com
+Password: admin
+
+
+**Employee Login Details**
+
+Email   : kevinrogers@gmail.com
+Password: password
